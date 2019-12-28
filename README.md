@@ -1,7 +1,7 @@
-# emphatic-accuracy-experiment
+# Emphatic Accuracy Experiment
 Python files for an emphatic accuracy experiment. The experiment consists of 2 parts: in the first one, the subject (target) records stories and rates her emotions during the recording. In the second part other subjects watch videos and rate their emotions
 
-# requirements
+# Requirements
 - Psychopy
 
 # How to run?
