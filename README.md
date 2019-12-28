@@ -5,7 +5,7 @@ Python files for an emphatic accuracy experiment. The experiment consists of 2 p
 - Psychopy
 
 # How to run?
-# First part
+## First part
 Consists of several steps
 1. Create EA1 folder in the same repository. The folder must consist an example video file with name: "practice_video.mp4"
 2. Run: recording_videos_trial.py
@@ -17,7 +17,7 @@ Consists of several steps
 4. Run: rating_trial_part_a.py
     The subject will watch her own stories and rate her feelings.
 
-# Second part
+## Second part
 1. Create EA2 folder in the same repository. The folder must consist an example video file with name: "practice_video.mp4"
 2. Create 3 folders in the same repository: "part_b_videos1", "part_b_videos2", "part_b_videos3", and put there the videos for the experiment.
 2. Run: rating_trial_part_b.py
